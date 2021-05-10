@@ -16,5 +16,5 @@ API with Fastify JS using ORM (Objection.js)
 3. setup the .env
 5. node server.js
 
-## Tutorials
+## Tutorial
 * [Link](https://kiddyxyz.medium.com/tutorial-orm-objection-js-di-node-js-fastify-db9c790d2c17) - Tutorial ORM Objection.js di Node.js Fastify
